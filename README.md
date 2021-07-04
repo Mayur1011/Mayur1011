@@ -1,8 +1,8 @@
 <h1 align="left">Hi 👋, I'm Mayur</h1>
 <h2 align="left">I'm a Engineering Student!!</h2>
 
-<h5 align="left">🔭 I’m currently learning MERN Stack.</h5>
-<h5 align="left">📫 2021 Goals: Build some cool projects with MERN and get good with data structures and algorithms.</h5>
+- 👨‍💻 I’m currently learning MERN Stack.
+- 📫 2021 Goals: Build some cool projects with MERN and get good with data structures and algorithms.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
