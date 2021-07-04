@@ -10,7 +10,7 @@
 <a href="https://www.codechef.com/users/mayur1010" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="mayur1010" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/mayur1010" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="mayur1010" height="30" width="40" /></a>
 <a href="https://codeforces.com/profile/mayurpokharkar6" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codeforces.svg" alt="mayurpokharkar6" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/mayur1010" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="mayur1010" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/the_4D" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="mayur1010" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/mayurpokharkar6" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="mayurpokharkar6" height="30" width="40" /></a>
 </p>
 
