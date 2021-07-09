@@ -2,7 +2,6 @@
 <h2 align="left">I'm an Engineering Student!!</h2>
 
 - 👨‍💻 I’m currently learning MERN Stack.
-- 📫 2021 Goals: Build some cool projects with MERN and get good with data structures and algorithms.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
