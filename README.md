@@ -1,4 +1,4 @@
-## Hey <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">, I'm [Mayur!](https://github.com/Mayur1011) 
+## Hey <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">, I'm [Mayur](https://github.com/Mayur1011) 
 <h2 align="left">I am a 3rd Year Undergrad pursuing B.E in Information Technology.</h2>
 
 <!-- To show profile views -->
