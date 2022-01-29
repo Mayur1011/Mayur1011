@@ -8,7 +8,7 @@
 
 ### Connect with me:
 
-LinkedIn : [@Mayur Pokharkar](www.linkedin.com/in/mayur-pokharkar/) <br/>
+LinkedIn : [@Mayur Pokharkar](https://www.linkedin.com/in/mayur-pokharkar/) <br/>
 LeetCode :- [@Mayur1010](https://leetcode.com/_4D/) <br/>
 CodeChef : [@mayur1010](https://www.codechef.com/users/mayur1010) <br/>
 CodeForces : [@mayurpokharkar6](https://codeforces.com/profile/mayurpokharkar6) <br/>
