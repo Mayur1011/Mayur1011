@@ -31,5 +31,5 @@ CodeForces : [@mayurpokharkar6](https://codeforces.com/profile/mayurpokharkar6) 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Mayur1011&theme=dark" alt="Mayur1011" /></p>
 
 <p> <img src="https://activity-graph.herokuapp.com/graph?username=Mayur1011&theme=xcode" /></p>
-[![Mayur's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Mayur1011&theme=xcode)](https://git.io/Mayur1011)
+[(https://activity-graph.herokuapp.com/graph?username=Mayur1011&theme=xcode)](https://git.io/Mayur1011)
 
