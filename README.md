@@ -30,6 +30,6 @@ CodeForces : [@mayurpokharkar6](https://codeforces.com/profile/mayurpokharkar6) 
 <p> <img src="https://github-readme-stats.vercel.app/api?username=Mayur1011&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515" /></p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Mayur1011&theme=dark" alt="Mayur1011" /></p>
 
-<p> <img src="https://activity-graph.herokuapp.com/graph?username=Mayur1011&theme=xcode" /></p>
-[(https://activity-graph.herokuapp.com/graph?username=Mayur1011&theme=xcode)](https://git.io/Mayur1011)
+![Visitor Count](https://profile-counter.glitch.me/{Mayur1011}/count.svg)
+
 
