@@ -8,11 +8,6 @@
 
 ### Connect with me:
 
-LinkedIn : [@Mayur Pokharkar](https://www.linkedin.com/in/mayur-pokharkar/) <br/>
-LeetCode :- [@Mayur1010](https://leetcode.com/_4D/) <br/>
-CodeChef : [@mayur1010](https://www.codechef.com/users/mayur1010) <br/>
-CodeForces : [@mayurpokharkar6](https://codeforces.com/profile/mayurpokharkar6) <br/>
-
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://www.cprogramming.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="30" height="40"/> </a> 
 <a href="https://www.w3schools.com/cpp/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="30" height="40"/> </a> 
