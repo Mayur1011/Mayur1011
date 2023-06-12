@@ -25,6 +25,5 @@
 <p> <img src="https://github-readme-stats.vercel.app/api?username=Mayur1011&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515" /></p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Mayur1011&theme=dark" alt="Mayur1011" /></p>
 
-![Visitor Count](https://profile-counter.glitch.me/{Mayur1011}/count.svg)
-
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=mayur1011&label=Profile%20views&color=0e75b6&style=flat" alt="mayur1011" /> </p>
 
