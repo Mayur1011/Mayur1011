@@ -1,10 +1,8 @@
 ## Hey <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" height = "15" width="29">, I'm [Mayur](https://github.com/Mayur1011) 
-<h2 align="left">I am a 4th Year Undergrad pursuing B.E in Information Technology.</h2>
+<h2 align="left">I am pursing my PG degree in Computer Science at IITB.</h2>
 
 <!-- To show profile views -->
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=Mayur1011&label=Profile%20views&color=0e75b6&style=flat" alt="Mayur1011" /> </p> -->
-
-- 👨‍💻 I’m currently learning MERN Stack.
 
 
 <h3 align="left">Languages and Tools:</h3>
